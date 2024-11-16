@@ -1,0 +1,8 @@
+.venv
+.env
+Test/test.http
+Test/test.js
+db.json
+dba.json
+db_test.json
+.DS_store
